@@ -1,0 +1,19 @@
+.h2 {
+    justify-content: center;
+    text-align: center;
+}
+
+.team{
+    justify-content: center;
+    text-align: center;
+    width: 500px;
+    margin: 60px auto;
+    display: flex;
+    
+    margin-bottom: 30px;
+    font-size: 24px;
+    line-height: 24px;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+}
